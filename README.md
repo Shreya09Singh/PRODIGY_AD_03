@@ -8,9 +8,7 @@ Controls: Start, stop, and reset the stopwatch.
 Lap Recording: Keeps track of lap times.
 Avatar Glow UI: Uses avatar glow effects for a modern, sleek appearance.
 Screenshots
-![Stopwatch_1](https://github.com/user-attachments/assets/c3d22ba8-7edf-431d-87a9-3d9f44fde10b)
-![Stopwatch_2](https://github.com/user-attachments/assets/d471afc9-f4b3-4373-8dfd-edb30018840c)
-![Stopwatch_3](https://github.com/user-attachments/assets/16532f18-7f70-478f-8412-fa977fefb5da)
+![Stopwatch_1](https://github.com/user-attachments/assets/c3d22ba8-7edf-431d-87a9-3d9f44fde10b)![Stopwatch_2](https://github.com/user-attachments/assets/d471afc9-f4b3-4373-8dfd-edb30018840c)![Stopwatch_3](https://github.com/user-attachments/assets/16532f18-7f70-478f-8412-fa977fefb5da)
 
 
 How the Stopwatch Works
